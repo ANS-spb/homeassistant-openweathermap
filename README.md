@@ -11,6 +11,6 @@
 
 **Способ первый.** Кастомный репозиторий [HACS](https://hacs.xyz/):
 
-> HACS > Интеграции > 3 точки слева вверху > Пользовательские репозитории > Репозиторий: `ANS-spb/homeassistant-openweathermap`, Категория: Интерграции > Добавить > *чуть-чуть подождём* > homeassistant-openweathermap > Установить
+> HACS > Интеграции > 3 точки слева вверху > Пользовательские репозитории > Репозиторий: `ANS-spb/homeassistant-openweathermap`, Категория: Интеграции > Добавить > *чуть-чуть подождём* > homeassistant-openweathermap > Установить
 
 **Способ второй.** Вручную закинуть каталог `openweathermap` в Ваш каталог `/config/custom_components`.
